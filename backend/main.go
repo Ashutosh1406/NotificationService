@@ -3,7 +3,8 @@ package main
 import (
 	"log"
 	"net/http"
-	"notificationService/backend/handlers"
+
+	"github.com/Ashutosh1406/NotificationService/backend/handlers"
 )
 
 func main() {

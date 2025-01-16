@@ -1,4 +1,4 @@
-module main
+module github.com/Ashutosh1406/NotificationService
 
 go 1.23.0
 
